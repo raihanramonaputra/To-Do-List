@@ -25,17 +25,6 @@ Tailwind CSS - CSS utility framework
 
 React - Library JavaScript untuk UI
 
-📦 Instalasi dan Menjalankan
-Clone repository
-
-bash
-git clone https://github.com/username/todo-list-app.git
-cd todo-list-app
-Install dependencies
-
-bash
-npm install
-Jalankan development server
 
 bash
 npm run dev
